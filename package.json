@@ -1,0 +1,15 @@
+{
+  "name": "chamathwanigasooriya",
+  "version": "1.0.4",
+  "description": "Chamath Wanigasooriya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "chamathwanigasooriya": "^1.0.0"
+  }
+}
